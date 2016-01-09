@@ -1,0 +1,28 @@
+<html>
+	<head>
+	
+	</head>
+	
+	<body>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="w3.css">
+		
+		<div class="w3-container w3-teal"><h1><center>Safety First</center></h1></div>
+			<div id="main" style="margin-left:2%">
+			<div class="w3-text-teal w3-opacity">
+			<p>Hello there, if you've been experiencing any trouble lately, feel free to answer the following questions</p>
+			</div>
+		
+				
+				<div class="w3-dropdown-click">
+					<center><button onclick="myFunction()" id="ask" class="w3-btn">I'm Ready</button></center><br>
+						<div id="Question1" class="w3-card w3-container w3-animate-left" style="margin-right:2%">
+							What are the things that have been happening around you?
+							<input class="w3-input"></input><button class="w3-btn">Submit</button>
+						</div>
+				</div>
+
+		
+	</body>
+</html>

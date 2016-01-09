@@ -1,0 +1,5 @@
+Provide an overview of how your project is going to solve the problem 
+and make people safe
+- My project will have to tackle a very broad scope to identify the factors
+that lead to people not being safe, then implementing it into a social media
+device that allows it's users to identify dangers before it happens.
